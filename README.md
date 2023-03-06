@@ -4,4 +4,4 @@
 # a. Se a tentativa do usuário for maior ou menor que a resposta,
 # o jogo deve informar ao usuário e solicitar um novo chute.
 # b. Se a resposta for correta, o jogo deve avisar ao usuário que
-# ele acertou e informar o número de tentativas utilizadas.
+ ele acertou e informar o número de tentativas utilizadas.
